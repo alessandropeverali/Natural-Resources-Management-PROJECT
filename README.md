@@ -12,3 +12,11 @@ More details are visible in the MatlabProject_Part1.pdf and MatlabProject_Part2.
 
 PROJECT REPORT:
 A description of the project is written in the "Report Natural Resources Management.pdf" file.
+
+MAIN PROJECT FILES:
+"Script_Part1.m": it is the main script of the first part (first part)
+"contest1_eval.m": it is the file used for the contest (first part)
+"training_set.csv": it is the dataset provided (first part)
+"Parametri.txt": it is the output of the main script with the values used by the contest file (first part)
+
+"NRM_Lab_2023_Como_Script.m": it is the main script of the second part (second part)
